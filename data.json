@@ -1,0 +1,1942 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-10-22T07:38:02.816Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "═ряшЄъш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-10-22T07:38:23.179Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "└ъёхёёєрЁ√",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-10-22T07:39:07.771Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "╤рырЄ√",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-10-22T07:39:25.912Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "╠ ёэ√х яЁюфєъЄ√",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-10-22T07:39:36.143Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "╤яюЁЄштэюх яшЄрэшх",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-10-22T08:15:10.576Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "тшёъш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-10-22T08:15:36.403Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "тюфър",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-10-22T08:16:05.582Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ухьрЄюухэ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-10-22T08:16:45.701Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "уЁхўхёъшщ ёрырЄ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-10-22T08:17:24.339Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "фєїш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-10-22T08:17:48.430Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "шэфхщър",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-10-22T08:18:12.703Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "ъряЁхчх",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-10-22T08:18:44.743Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "ъючы Єшэр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-10-22T08:19:18.161Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "ъюы№Ўр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-10-22T08:19:57.624Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "ъєЁшЎр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2023-10-22T08:20:24.232Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "ышъхЁ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2023-10-22T08:20:54.491Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "ьшьючр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2023-10-22T08:21:21.563Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "юыхэшэр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2023-10-22T08:21:45.425Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "юышт№х",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2023-10-22T08:22:20.350Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "15",
+      "object_repr": "юЁхїш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2023-10-22T08:22:54.512Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "16",
+      "object_repr": "юўъш",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2023-10-22T08:23:21.300Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "17",
+      "object_repr": "яштю",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2023-10-22T08:23:57.155Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "18",
+      "object_repr": "Ёхфцєтхыръ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2023-10-22T08:24:23.972Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "19",
+      "object_repr": "Ёюь",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2023-10-22T08:24:50.404Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "20",
+      "object_repr": "ётшэшэр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2023-10-22T08:25:19.098Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "21",
+      "object_repr": "ЄтюЁюу",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2023-10-22T08:25:45.316Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "22",
+      "object_repr": "ЄхыхЇюэ√",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2023-10-22T08:26:15.217Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "23",
+      "object_repr": "ўрё√",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2023-10-22T08:26:50.248Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "24",
+      "object_repr": "ўєър",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2023-10-22T08:27:14.173Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "25",
+      "object_repr": " щЎр",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2023-10-22T08:37:58.837Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "╤ырфюёЄш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2023-10-22T08:37:58.840Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "╤ырфюёЄш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.818Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "25",
+      "object_repr": " щЎр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.823Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "24",
+      "object_repr": "ўєър",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.825Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "23",
+      "object_repr": "ўрё√",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.826Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "22",
+      "object_repr": "ЄхыхЇюэ√",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.827Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "21",
+      "object_repr": "ЄтюЁюу",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.830Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "20",
+      "object_repr": "ётшэшэр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.831Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "19",
+      "object_repr": "Ёюь",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.832Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "18",
+      "object_repr": "Ёхфцєтхыръ",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.833Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "17",
+      "object_repr": "яштю",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.835Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "16",
+      "object_repr": "юўъш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.836Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "15",
+      "object_repr": "юЁхїш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.837Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "юышт№х",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.839Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "юыхэшэр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.840Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "ьшьючр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.841Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "ышъхЁ",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.843Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "ъєЁшЎр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.844Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "ъюы№Ўр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.845Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "ъючы Єшэр",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.847Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "ъряЁхчх",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.849Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "шэфхщър",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.850Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "фєїш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.852Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "уЁхўхёъшщ ёрырЄ",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.853Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "ухьрЄюухэ",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.854Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "тюфър",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2023-10-22T09:06:17.856Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "тшёъш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2023-10-22T09:06:38.576Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "╤яюЁЄштэюх яшЄрэшх",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2023-10-22T09:06:38.580Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "╠ ёэ√х яЁюфєъЄ√",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2023-10-22T09:06:38.581Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "╤рырЄ√",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2023-10-22T09:06:38.583Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "└ъёхёёєрЁ√",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2023-10-22T09:06:38.585Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "═ряшЄъш",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2023-10-22T09:11:27.388Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Aksessuari",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2023-10-22T09:11:43.646Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Meat products",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2023-10-22T09:11:59.280Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Napitki",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2023-10-22T09:12:12.041Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Salads",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2023-10-22T09:12:24.353Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Sport food",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2023-10-22T09:13:00.857Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "26",
+      "object_repr": "fvfdzv",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2023-10-22T09:15:58.758Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "26",
+      "object_repr": "fvfdzv",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2023-10-22T09:17:18.781Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "27",
+      "object_repr": "chasi",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2023-10-22T09:17:42.934Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "28",
+      "object_repr": "duhi",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2023-10-22T09:18:05.572Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "29",
+      "object_repr": "kolca",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2023-10-22T09:18:22.219Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "30",
+      "object_repr": "ochki",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2023-10-22T09:18:44.019Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "31",
+      "object_repr": "telefons",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2023-10-22T09:19:10.598Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "32",
+      "object_repr": "indeyka",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2023-10-22T09:19:33.470Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "33",
+      "object_repr": "kozlatina",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2023-10-22T09:20:00.844Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "34",
+      "object_repr": "kuritsa",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2023-10-22T09:20:19.307Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "35",
+      "object_repr": "olenina",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2023-10-22T09:20:45.362Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "36",
+      "object_repr": "svinina",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2023-10-22T09:21:15.773Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "37",
+      "object_repr": "liker",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2023-10-22T09:21:33.164Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "38",
+      "object_repr": "pivo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2023-10-22T09:21:53.058Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "39",
+      "object_repr": "rom",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2023-10-22T09:22:14.706Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "40",
+      "object_repr": "viski",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2023-10-22T09:22:33.015Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "41",
+      "object_repr": "vodka",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2023-10-22T09:22:58.743Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "42",
+      "object_repr": "chyka",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2023-10-22T09:23:17.528Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "43",
+      "object_repr": "greek salad",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2023-10-22T09:23:35.482Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "44",
+      "object_repr": "kapreze",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2023-10-22T09:23:52.735Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "45",
+      "object_repr": "mimoza",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+      "action_time": "2023-10-22T09:24:13.217Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "46",
+      "object_repr": "olivye",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+      "action_time": "2023-10-22T09:24:37.133Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "47",
+      "object_repr": "eggs",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+      "action_time": "2023-10-22T09:24:56.283Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "48",
+      "object_repr": "gematogen",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+      "action_time": "2023-10-22T09:25:12.486Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "49",
+      "object_repr": "nuts",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+      "action_time": "2023-10-22T09:25:40.893Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "50",
+      "object_repr": "radzchevylak",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+      "action_time": "2023-10-22T09:25:57.269Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "51",
+      "object_repr": "tvorog",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add ╧ЁюфєъЄ",
+      "content_type": 7,
+      "codename": "add_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change ╧ЁюфєъЄ",
+      "content_type": 7,
+      "codename": "change_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete ╧ЁюфєъЄ",
+      "content_type": 7,
+      "codename": "delete_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view ╧ЁюфєъЄ",
+      "content_type": 7,
+      "codename": "view_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add ╩рЄхуюЁш ",
+      "content_type": 8,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change ╩рЄхуюЁш ",
+      "content_type": 8,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete ╩рЄхуюЁш ",
+      "content_type": 8,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view ╩рЄхуюЁш ",
+      "content_type": 8,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$IhkvSbJ981nlFiRrX1UdWX$nA3tNHmoSFINPgUBHWJknSq9Sn6PyFGfaPJlOP1txjE=",
+      "last_login": "2023-10-22T05:40:53.384Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-10-22T05:40:46.774Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "catalog",
+      "model": "product"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "catalog",
+      "model": "category"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "roi4egtu6qgvt1cx6fwv7x36job0o9h6",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2pBSOgFcuvcMZJgZpGpoUtpV490NSRe6_e-9f6iI-1bi3mSNM6urMuryuyWkl9QO-In1sWha6rbOSXdFn7Tp-8Lyvp3u30HBVnqdB8cykSOTMIAlM9jJOiDPNvM42iDBkif0YIAzAkl2IWQQgJyMUZ8v9q44cQ:1quRCn:AThnqEGcqztZhPvWCqybipaWshCSjOi70LXNMdd3WoA",
+      "expire_date": "2023-11-05T05:40:53.386Z"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 8,
+    "fields": {
+      "name": "Aksessuari",
+      "description": "Aksessuari"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 9,
+    "fields": {
+      "name": "Meat products",
+      "description": "Meat products"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 10,
+    "fields": {
+      "name": "Napitki",
+      "description": "Napitki"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 11,
+    "fields": {
+      "name": "Salads",
+      "description": "Salads"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 12,
+    "fields": {
+      "name": "Sport food",
+      "description": "Sport food"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 27,
+    "fields": {
+      "name": "chasi",
+      "description": "chasi",
+      "image": "img/chasi.jpg",
+      "category": 8,
+      "price": 78900,
+      "data_created": "2023-10-22T09:17:18.779Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 28,
+    "fields": {
+      "name": "duhi",
+      "description": "duhi",
+      "image": "img/duhi.jpg",
+      "category": 8,
+      "price": 67788,
+      "data_created": "2023-10-22T09:17:42.932Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 29,
+    "fields": {
+      "name": "kolca",
+      "description": "kolca",
+      "image": "img/kolca.jpg",
+      "category": 8,
+      "price": 45009,
+      "data_created": "2023-10-22T09:18:05.571Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 30,
+    "fields": {
+      "name": "ochki",
+      "description": "ochki",
+      "image": "img/ochki.jpg",
+      "category": 8,
+      "price": 5676,
+      "data_created": "2023-10-22T09:18:22.217Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 31,
+    "fields": {
+      "name": "telefons",
+      "description": "telefons",
+      "image": "img/telefons.jpg",
+      "category": 8,
+      "price": 5654,
+      "data_created": "2023-10-22T09:18:44.017Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 32,
+    "fields": {
+      "name": "indeyka",
+      "description": "indeyka",
+      "image": "img/indeyka.jpg",
+      "category": 9,
+      "price": 5566,
+      "data_created": "2023-10-22T09:19:10.596Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 33,
+    "fields": {
+      "name": "kozlatina",
+      "description": "kozlatina",
+      "image": "img/kozlatina.jpg",
+      "category": 9,
+      "price": 5458,
+      "data_created": "2023-10-22T09:19:33.468Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 34,
+    "fields": {
+      "name": "kuritsa",
+      "description": "kuritsa",
+      "image": "img/kuritsa.jpg",
+      "category": 9,
+      "price": 6676,
+      "data_created": "2023-10-22T09:20:00.842Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 35,
+    "fields": {
+      "name": "olenina",
+      "description": "olenina",
+      "image": "img/olenina.jpg",
+      "category": 9,
+      "price": 6676,
+      "data_created": "2023-10-22T09:20:19.305Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 36,
+    "fields": {
+      "name": "svinina",
+      "description": "svinina",
+      "image": "img/svinia.jpg",
+      "category": 9,
+      "price": 4598,
+      "data_created": "2023-10-22T09:20:45.360Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 37,
+    "fields": {
+      "name": "liker",
+      "description": "liker",
+      "image": "img/liker.jpg",
+      "category": 10,
+      "price": 8890,
+      "data_created": "2023-10-22T09:21:15.771Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 38,
+    "fields": {
+      "name": "pivo",
+      "description": "pivo",
+      "image": "img/pivo.jpg",
+      "category": 10,
+      "price": 6689,
+      "data_created": "2023-10-22T09:21:33.162Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 39,
+    "fields": {
+      "name": "rom",
+      "description": "rom",
+      "image": "img/rom.jpg",
+      "category": 10,
+      "price": 8890,
+      "data_created": "2023-10-22T09:21:53.056Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 40,
+    "fields": {
+      "name": "viski",
+      "description": "viski",
+      "image": "img/viski.jpg",
+      "category": 10,
+      "price": 9990,
+      "data_created": "2023-10-22T09:22:14.705Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 41,
+    "fields": {
+      "name": "vodka",
+      "description": "vodka",
+      "image": "img/vodka.jpg",
+      "category": 10,
+      "price": 7781,
+      "data_created": "2023-10-22T09:22:33.013Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 42,
+    "fields": {
+      "name": "chyka",
+      "description": "chyka",
+      "image": "img/chyka.jpg",
+      "category": 11,
+      "price": 7834,
+      "data_created": "2023-10-22T09:22:58.741Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 43,
+    "fields": {
+      "name": "greek salad",
+      "description": "greek salad",
+      "image": "img/greek_salad.jpg",
+      "category": 11,
+      "price": 769,
+      "data_created": "2023-10-22T09:23:17.526Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 44,
+    "fields": {
+      "name": "kapreze",
+      "description": "kapreze",
+      "image": "img/kapreze.jpg",
+      "category": 11,
+      "price": 6790,
+      "data_created": "2023-10-22T09:23:35.481Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 45,
+    "fields": {
+      "name": "mimoza",
+      "description": "mimoza",
+      "image": "img/mimoza.jpg",
+      "category": 11,
+      "price": 899,
+      "data_created": "2023-10-22T09:23:52.733Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 46,
+    "fields": {
+      "name": "olivye",
+      "description": "olivye",
+      "image": "img/olivye.jpg",
+      "category": 11,
+      "price": 8345,
+      "data_created": "2023-10-22T09:24:13.215Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 47,
+    "fields": {
+      "name": "eggs",
+      "description": "eggs",
+      "image": "img/eggs.jpg",
+      "category": 12,
+      "price": 782,
+      "data_created": "2023-10-22T09:24:37.131Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 48,
+    "fields": {
+      "name": "gematogen",
+      "description": "gematogen",
+      "image": "img/gematogen_3uL2e2t.jpg",
+      "category": 12,
+      "price": 678,
+      "data_created": "2023-10-22T09:24:56.283Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 49,
+    "fields": {
+      "name": "nuts",
+      "description": "nuts",
+      "image": "img/nuts.jpg",
+      "category": 12,
+      "price": 990,
+      "data_created": "2023-10-22T09:25:12.484Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 50,
+    "fields": {
+      "name": "radzchevylak",
+      "description": "radzchevylak",
+      "image": "img/radzchevylak.jpg",
+      "category": 12,
+      "price": 778,
+      "data_created": "2023-10-22T09:25:40.891Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 51,
+    "fields": {
+      "name": "tvorog",
+      "description": "tvorog",
+      "image": "img/tvorog.jpg",
+      "category": 11,
+      "price": 778,
+      "data_created": "2023-10-22T09:25:57.267Z"
+    }
+  }
+]
