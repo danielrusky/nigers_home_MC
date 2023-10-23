@@ -5,10 +5,10 @@ NULLABLE = {'null': True, 'blank': True}
 
 class Category(models.Model):
     name = models.CharField(max_length=150, verbose_name='Наименование')
-    description = models.TextField(verbose_name='Описание', **NULLABLE)
+    description = models.TextField(max_length=100, verbose_name='Описание', **NULLABLE)
 
     def __str__(self):
-        return f'{self.name} {self.description}'
+        return f'{self.name}'
 
     class Meta:
         verbose_name = 'Категория'
@@ -17,7 +17,7 @@ class Category(models.Model):
 
 class Product(models.Model):
     name = models.CharField(max_length=100, verbose_name='Наименование')
-    description = models.TextField(verbose_name='Описание', **NULLABLE)
+    description = models.TextField(max_length=100, verbose_name='Описание', **NULLABLE)
     image = models.ImageField(verbose_name='Изображение', upload_to='img/', **NULLABLE)
     category = models.ForeignKey(Category, verbose_name='Категория', on_delete=models.CASCADE)
     price = models.IntegerField(verbose_name='Цена', **NULLABLE)

@@ -3,6 +3,29 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/data.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/manage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/album.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/css/bootstrap.min.css.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.js.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/bootstrap.min.js.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/holder.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static/js/popper.min.js" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
