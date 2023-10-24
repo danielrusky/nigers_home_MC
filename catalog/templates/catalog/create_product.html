@@ -1,0 +1,28 @@
+{% extends 'catalog/base.html' %}]
+{% block content %}
+<div class="col-lg-6 col-md-12 col-sm-12">
+    <div class="card mb-4 box-shadow">
+        <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Создать продукт</h4>
+        </div>
+        <div class="card-body">
+            <form method="post" action="" class="form-floating" enctype="multipart/form-data">
+                {% csrf_token %}
+                <img src="/media/{{ object.image }}" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">{{ object.name }}</h5>
+                    <p class="card-text">Описание: {{ object.description }}</p>
+                    <p class="card-text">Категория: {{ object.category }}</p>
+                    <p class="card-text">Цена: {{ object.price }} руб.</p>
+                    <input class="btn btn-primary w-100" type="submit" value="Отправить"/>
+                    <br>
+                    <div class="mb-3">
+                        {{ form.as_p }}
+                    </div>
+                    <a href="{% url 'catalog:home' %}" class="btn btn-primary">К списку товаров</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

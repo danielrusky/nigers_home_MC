@@ -23,6 +23,8 @@ class Product(models.Model):
     price = models.IntegerField(verbose_name='Цена', **NULLABLE)
     data_created = models.DateTimeField(verbose_name='Дата последнего изменения', auto_now_add=True)
 
+    is_active = models.BooleanField(default=True)
+
     def __str__(self):
         return self.name
 
@@ -42,3 +44,4 @@ class Contacts(models.Model):
     class Meta:
         verbose_name = 'Контакт'
         verbose_name_plural = 'Контакты'
+
