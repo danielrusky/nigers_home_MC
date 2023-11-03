@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/catalog/forms.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/catalog/templates/catalog/product_list.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/manage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/materials/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/materials/templates/materials/material_confirm_delete.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/materials/templates/materials/material_detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/materials/templates/materials/material_form.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/materials/templates/materials/material_list.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static/css/album.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static/css/bootstrap-grid.css.map" charset="UTF-8" />

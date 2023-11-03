@@ -13,17 +13,17 @@
             </p>
             <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                    <a href="{% url 'category:view_product' object.pk %}" type="button"
+                    <a href="{% url 'catalog:view_product' object.pk %}" type="button"
                        class="btn btn-sm btn-outline-success">View</a>
-                    <a href="{% url 'category:update_product' object.pk %}" type="button"
+                    <a href="{% url 'catalog:update_product' object.pk %}" type="button"
                        class="btn btn-sm btn-outline-secondary">Edit</a>
-                    <a href="{% url 'category:delete_product' object.pk %}" type="button"
+                    <a href="{% url 'catalog:delete_product' object.pk %}" type="button"
                        class="btn btn-sm btn-outline-danger">Delete</a>
                 </div>
                 {% if object.is_active %}
-                    <a class="btn btn-warning" href="{% url 'category:toggle_active' object.pk %}">Деактивировать</a>
+                    <a class="btn btn-warning" href="{% url 'catalog:toggle_active' object.pk %}">Деактивировать</a>
                 {% else %}
-                    <a class="btn btn-success" href="{% url 'category:toggle_active' object.pk %}">Активировать</a>
+                    <a class="btn btn-success" href="{% url 'catalog:toggle_active' object.pk %}">Активировать</a>
                 {% endif %}
             </div>
         </div>
