@@ -22,7 +22,7 @@ class Product(models.Model):
     category = models.ForeignKey(Category, verbose_name='Категория', on_delete=models.CASCADE)
     price = models.IntegerField(verbose_name='Цена', **NULLABLE)
     data_created = models.DateTimeField(verbose_name='Дата последнего изменения', auto_now_add=True)
-    vers = models.ForeignKey('Version', verbose_name='Версия', on_delete=models.DO_NOTHING, **NULLABLE)
+    # vers = models.ForeignKey('Version', verbose_name='Версия', on_delete=models.DO_NOTHING, **NULLABLE)
 
     is_active = models.BooleanField(default=True)
 

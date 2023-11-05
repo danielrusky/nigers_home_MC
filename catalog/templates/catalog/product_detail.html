@@ -11,6 +11,12 @@
                 <p class="card-text">Цена: {{ product.price }} руб.</p>
                 <a href="{% url 'catalog:home' %}" class="btn btn-primary">К списку товаров</a>
             </div>
+            {% if user.is_authenticated %}
+            <div class="card-footer">
+                <a href="{% url 'product_update' object.id %}" class="btn btn-secondary">Редактировать</a>
+                <a href="{% url 'product_delete' object.id %}" class="btn btn-danger">Удалить</a>
+            </div>
+            {% endif %}
         </div>
     </div>
 </div>

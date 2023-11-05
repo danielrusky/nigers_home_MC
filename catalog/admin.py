@@ -1,5 +1,5 @@
 from django.contrib import admin
-
+from users.models import User
 from catalog.models import Product, Category, Contacts, Version
 
 
@@ -20,3 +20,4 @@ class VersionAdmin(admin.ModelAdmin):
     list_display = ('prod', 'number_version', 'name_version', 'current_version')
 
 admin.site.register(Contacts)
+admin.site.register(User)
