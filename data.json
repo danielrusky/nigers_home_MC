@@ -1,0 +1,372 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 13,
+    "fields": {
+      "name": "Aksessuari",
+      "description": "Aksessuari"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 14,
+    "fields": {
+      "name": "Meat products",
+      "description": "Meat products"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 15,
+    "fields": {
+      "name": "Napitki",
+      "description": "Napitki"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 16,
+    "fields": {
+      "name": "Salads",
+      "description": "Salads"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 17,
+    "fields": {
+      "name": "Sport food",
+      "description": "Sport food"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 52,
+    "fields": {
+      "name": "chasi",
+      "description": "chasi 009",
+      "image": "img/chasi.jpg",
+      "category": 13,
+      "price": 78900,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 53,
+    "fields": {
+      "name": "duhi",
+      "description": "duhi",
+      "image": "img/duhi.jpg",
+      "category": 13,
+      "price": 67788,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 54,
+    "fields": {
+      "name": "kolca",
+      "description": "kolca",
+      "image": "img/kolca.jpg",
+      "category": 13,
+      "price": 45009,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 55,
+    "fields": {
+      "name": "ochki",
+      "description": "ochki",
+      "image": "img/ochki.jpg",
+      "category": 13,
+      "price": 5676,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 56,
+    "fields": {
+      "name": "telefons",
+      "description": "telefons",
+      "image": "img/telefons.jpg",
+      "category": 13,
+      "price": 5654,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 57,
+    "fields": {
+      "name": "indeyka",
+      "description": "indeyka",
+      "image": "img/indeyka.jpg",
+      "category": 14,
+      "price": 5566,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 58,
+    "fields": {
+      "name": "kozlatina",
+      "description": "kozlatina",
+      "image": "img/kozlatina.jpg",
+      "category": 14,
+      "price": 5458,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 59,
+    "fields": {
+      "name": "kuritsa",
+      "description": "kuritsa",
+      "image": "img/kuritsa.jpg",
+      "category": 14,
+      "price": 6676,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 60,
+    "fields": {
+      "name": "olenina",
+      "description": "olenina",
+      "image": "img/olenina.jpg",
+      "category": 14,
+      "price": 6676,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 61,
+    "fields": {
+      "name": "svinina",
+      "description": "svinina",
+      "image": "img/svinia.jpg",
+      "category": 14,
+      "price": 4598,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 62,
+    "fields": {
+      "name": "liker",
+      "description": "liker",
+      "image": "img/liker.jpg",
+      "category": 15,
+      "price": 8890,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 63,
+    "fields": {
+      "name": "pivo",
+      "description": "pivo",
+      "image": "img/pivo.jpg",
+      "category": 15,
+      "price": 6689,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 64,
+    "fields": {
+      "name": "rom",
+      "description": "rom",
+      "image": "img/rom.jpg",
+      "category": 15,
+      "price": 8890,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 65,
+    "fields": {
+      "name": "viski",
+      "description": "viski",
+      "image": "img/viski.jpg",
+      "category": 15,
+      "price": 9990,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 66,
+    "fields": {
+      "name": "vodka",
+      "description": "vodka",
+      "image": "img/vodka.jpg",
+      "category": 15,
+      "price": 7781,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 67,
+    "fields": {
+      "name": "chyka",
+      "description": "chyka",
+      "image": "img/chyka.jpg",
+      "category": 16,
+      "price": 7834,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 68,
+    "fields": {
+      "name": "greek salad",
+      "description": "greek salad",
+      "image": "img/greek_salad.jpg",
+      "category": 16,
+      "price": 769,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 69,
+    "fields": {
+      "name": "kapreze",
+      "description": "kapreze",
+      "image": "img/kapreze.jpg",
+      "category": 16,
+      "price": 6790,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 70,
+    "fields": {
+      "name": "mimoza",
+      "description": "mimoza",
+      "image": "img/mimoza.jpg",
+      "category": 16,
+      "price": 899,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 71,
+    "fields": {
+      "name": "olivye",
+      "description": "olivye",
+      "image": "img/olivye.jpg",
+      "category": 16,
+      "price": 8345,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 72,
+    "fields": {
+      "name": "eggs",
+      "description": "eggs",
+      "image": "img/eggs.jpg",
+      "category": 17,
+      "price": 782,
+      "data_created": "2023-10-22T09:39:56.980Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 73,
+    "fields": {
+      "name": "gematogen",
+      "description": "gematogen",
+      "image": "img/gematogen_3uL2e2t.jpg",
+      "category": 17,
+      "price": 678,
+      "data_created": "2023-10-22T09:39:56.981Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 74,
+    "fields": {
+      "name": "nuts",
+      "description": "nuts",
+      "image": "img/nuts.jpg",
+      "category": 17,
+      "price": 990,
+      "data_created": "2023-10-22T09:39:56.981Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 76,
+    "fields": {
+      "name": "tvorog",
+      "description": "tvorog",
+      "image": "img/tvorog.jpg",
+      "category": 16,
+      "price": 778,
+      "data_created": "2023-10-22T09:39:56.981Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "catalog.contacts",
+    "pk": 5,
+    "fields": {
+      "name": "Danila",
+      "phone": "+79775128865",
+      "message": "well"
+    }
+  },
+  {
+    "model": "catalog.contacts",
+    "pk": 6,
+    "fields": {
+      "name": "Mickaul",
+      "phone": "+79775128865",
+      "message": "Trul"
+    }
+  }
+]
