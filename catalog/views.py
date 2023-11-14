@@ -3,13 +3,13 @@ from django.shortcuts import render, redirect, get_object_or_404
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, DetailView, TemplateView, ListView, DeleteView, UpdateView
 
-from catalog.forms import ProductForm, VersionForm
+from catalog.forms import ProductForm, VersionForm, CategoryForm
 from catalog.models import Product, Contacts, Category, Version
 
 
 class CategoryCreateView(CreateView):
     model = Category
-    fields = ('name', 'description')
+    form_class = CategoryForm
     success_url = reverse_lazy('catalog:home')
 
 
@@ -82,17 +82,13 @@ def home(request):
     return render(request, 'catalog/home.html', context)
 
 
-def contacts(request):
-    if request.method == 'POST':
-        name = request.POST.get('name')
-        phone = request.POST.get('phone')
-        message = request.POST.get('message')
-        Contacts.objects.create(name=name, phone=phone, message=message)
-        print(f'У вас новое сообщение от: {name}(телефон:{phone}): {message}')
-    context = {
-        'title': 'Контакты'
-    }
-    return render(request, 'catalog/contacts.html', {'contacts': Contacts.objects.get(pk=1)})
+class ContactsView(TemplateView):
+    template_name = 'catalog/contacts.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        # context['contacts'] = Contacts.objects.get(pk=1)
+        return context
 
 
 def toggle_active(request, slug):
